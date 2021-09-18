@@ -1,0 +1,9 @@
+body{
+  background-color: lightblue;
+}
+.app{
+  background-color:orange;
+  font-size:30px;
+  width:150px;
+  border:5px solid red;
+}
